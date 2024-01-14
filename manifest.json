@@ -1,6 +1,6 @@
 {
   "name": "Mikeal200sSuitsLC",
-  "version_number": "1.0.1",
+  "version_number": "1.0.3",
   "website_url": "https://github.com/mikeal200/Mikeal200sSuitsLC",
   "description": "Adds suits to the game for me and my friends.",
   "dependencies": [
